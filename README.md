@@ -1,9 +1,10 @@
 # Repo for static air hand gestures
 
-![Web App Screenshot](assets/web-app.PNG)
+![Web App Screenshot](assets/web-app.png)
 
 ## 1. Information
-This is a ready demo for the visiting clients.  
+This is a ready demo for KMF-ICT EXPO on October 17, 2024. 
+Can also be used for the visiting clients.  
 **Anker camera** is recommended for better demo.
 
 ### 1.2. Gestures
